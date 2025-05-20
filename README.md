@@ -1,6 +1,6 @@
 # 🔍 BrowserUse Best Deal Finder
 
-An AI-powered price comparison tool built with [Browser-Use](https://github.com/microsoft/browsing-assistant) and DeepSeek AI. Find the best deals across multiple e-commerce websites without the hassle of manual searching.
+An AI-powered price comparison tool built with [Browser-Use](https://browser-use.com/) and DeepSeek AI. Find the best deals across multiple e-commerce websites without the hassle of manual searching.
 
 ## What it does
 
