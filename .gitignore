@@ -1,0 +1,8 @@
+# the virutal environment
+.venv/
+
+# the logs
+logs/
+
+.env/
+.env

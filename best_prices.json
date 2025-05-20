@@ -1,0 +1,43 @@
+{
+  "original_query": "iphone 13",
+  "search_terms": [
+    "iphone 13"
+  ],
+  "best_products": [
+    {
+      "name": "Apple Iphone 13 Mobile Phone - 6.1 Inches - Single SIM 5G 128GB/4GB - Blue",
+      "url": "https://www.jumia.com.eg/iphone-13-6.1-inch-128gb4gb-5g-mobile-phone-blue-e-apple-mpg3818239.html",
+      "price": 26444.0,
+      "website_source": "jumia.com.eg",
+      "search_term": "iphone 13",
+      "image": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/50/4831001/1.jpg?9495",
+      "description": "Apple Iphone 13 Mobile Phone - 6.1 Inches - Single SIM 5G 128GB/4GB - Blue",
+      "availability": "Add to cart",
+      "extracted_at": "2025-05-21T01:16:56.216578"
+    },
+    {
+      "name": "Apple IPhone 13 Single SIM, 128GB, 4GB RAM, 5G - Midnight Black",
+      "url": "https://www.jumia.com.eg/apple-iphone-13-single-sim-128gb-4gb-ram-5g-midnight-black-132062176.html",
+      "price": 33566.0,
+      "website_source": "jumia.com.eg",
+      "search_term": "iphone 13",
+      "image": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/67/1260231/1.jpg?4521",
+      "description": "Apple IPhone 13 Single SIM, 128GB, 4GB RAM, 5G - Midnight Black",
+      "availability": "Add to cart",
+      "extracted_at": "2025-05-21T01:16:56.210146"
+    },
+    {
+      "name": "Apple IPhone 13 Single SIM, 128GB, 4GB RAM, 5G - Starlight",
+      "url": "https://www.jumia.com.eg/apple-iphone-13-single-sim-128gb-4gb-ram-5g-starlight-132062167.html",
+      "price": 33766.0,
+      "website_source": "jumia.com.eg",
+      "search_term": "iphone 13",
+      "image": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/76/1260231/1.jpg?4557",
+      "description": "Apple IPhone 13 Single SIM, 128GB, 4GB RAM, 5G - Starlight",
+      "availability": "Add to cart",
+      "extracted_at": "2025-05-21T01:16:56.216578"
+    }
+  ],
+  "total_products_found": 6,
+  "timestamp": "2025-05-21T01:22:02.533077"
+}
